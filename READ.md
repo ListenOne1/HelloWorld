@@ -1,6 +1,6 @@
 # Overview
 
-This is the classic Hello World program. I wrote it to demonstrate my development environment using Python.
+This is the classic Hello World program. I wrote it to demonstrate the use of Visual Studio Code, Github, and Python integrated together.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
