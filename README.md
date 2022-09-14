@@ -12,6 +12,5 @@ This is the classic Hello World program. I wrote it to demonstrate the use of Vi
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Git](https://git-scm.com)
+* [Visual Studio Code](https://code.visualstudio.com)
