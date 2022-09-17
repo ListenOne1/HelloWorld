@@ -6,7 +6,7 @@ This is the classic Hello World program. I wrote it to demonstrate the use of Vi
 
 # Development Environment
 
-* Python 3.9.7 32 bit
+* Python 3.10.4 64 bit
 * Visual Studio Code
 * Git / GitHub
 
